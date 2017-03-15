@@ -19,15 +19,19 @@ Zotonic is the open source, high speed, real-time web framework  and content man
 ## Topics
 ```
 User Guide
-[ ] CMS
-[ ] The Zotonic data model
-[ ] Domain model
-[ ] User management
-[ ] Issues and features
+[x] CMS
+[x] The Zotonic data model
+[x] Domain model
+[x] User management
+[x] Issues and features
 Developer Guide
 The technical handbook for developers building websites with Zotonic. It guides you through all aspects of the framework.
-[ ] Introduction
-[ ] Getting Started
+[x] Introduction
+Getting Started
+[ ] Docker
+[x] Installation
+[ ] Next Steps
+
 [ ] Docker
 [ ] Sites
 [ ] Controllers

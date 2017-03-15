@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/projects":{"guestpath":"/home/vagrant/projects","hostpath":"/Users/enogrob/Things/Projects","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/enogrob/Things/Projects/tutorial-zotonic-framework/src","disabled":false,"__vagrantfile":true}}}
